@@ -1,6 +1,2 @@
 bbbb
-<<<<<<< HEAD
-kaio
-=======
-nnnn
->>>>>>> develop
+fjhafhjdahf
